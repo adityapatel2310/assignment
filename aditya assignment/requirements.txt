@@ -1,0 +1,9 @@
+Dependencies
+
+Make sure to install all required libraries:
+Flask
+Streamlit
+requests
+beautifulsoup4
+textblob
+gtts
